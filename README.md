@@ -1,6 +1,5 @@
 # Nelder-mead_Rosenbrock_Function_CPP
 
-# NMRB.cpp
 
 ## Overview
 This program implements the Nelder-Mead optimization algorithm to find the minimum of the Rosenbrock function. The Rosenbrock function is a well-known test problem for optimization algorithms and is defined as:
