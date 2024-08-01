@@ -5,7 +5,7 @@
 ## Overview
 This program implements the Nelder-Mead optimization algorithm to find the minimum of the Rosenbrock function. The Rosenbrock function is a well-known test problem for optimization algorithms and is defined as:
 
-\[ f(x, y) = 100(y - x^2)^2 + (1 - x)^2 \]
+$f(x, y) = 100(y - x^2)^2 + (1 - x)^2$
 
 ## Features
 - **Initialisation of Simplex**: The program initializes a simplex with three points.
