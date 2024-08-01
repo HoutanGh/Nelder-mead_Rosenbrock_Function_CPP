@@ -13,3 +13,4 @@ $f(x, y) = 100(y - x^2)^2 + (1 - x)^2$
 - **Centroid Calculation**: Calculates the centroid of the simplex excluding the worst point.
 - **Reflection, Contraction, Expansion, and Shrink Operations**: Implements the reflection, contraction, expansion, and shrink operations to iteratively improve the simplex.
  
+### Note: Also includes the original coursework submitted in C from undergrad - 189213129.c
